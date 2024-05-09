@@ -8,7 +8,7 @@ I'm currently a volunteer Game Developer on [Corporate Clash](https://corporatec
 
 🌱 I’m currently interested in learning AI, C#, Java and Lua.
 
-📫 How to reach me: [<img src="https://www.learninglight.com/wp-content/uploads/2017/06/connect-on-LinkedIn-button.png" alt="LinkedIn" width="90"/>](https://www.linkedin.com/in/olivia-vernetti/)
+📫 How to reach me: [<img src="https://www.learninglight.com/wp-content/uploads/2017/06/linkedin.png" alt="LinkedIn" width="90"/>](https://www.linkedin.com/in/olivia-vernetti/)
 
 ## My Tools and Languages
 <div style="display: flex; justify-content: space-between;">
