@@ -16,7 +16,7 @@ I'm currently a volunteer Game Developer on [Corporate Clash](https://corporatec
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" width="70"/>
   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="55">
   <img src="https://discourse.panda3d.org/uploads/default/original/2X/7/73e66ac19bebab6744fe1809e1473fb4daa02f8e.png" alt="Panda3D" width="75"/>
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="MongoDB" width="85"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="85"/>
