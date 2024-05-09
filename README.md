@@ -4,7 +4,7 @@ Hi there, I'm Olivia Vernetti (also known as Livi) 😄
 
 I'm a self-taught developer with a dream to move into software engineering full-time.
 
-I'm currently a volunteer Game Developer on [Corporate Clash](https://corporateclash.net/), a free-to-play reimagination of Disney's Toontown MMO.
+<!--I'm currently a volunteer Game Developer on [Corporate Clash](https://corporateclash.net/), a free-to-play reimagination of Disney's Toontown MMO.-->
 
 🌱 I’m currently interested in learning AI, C#, Java and Lua.
 
