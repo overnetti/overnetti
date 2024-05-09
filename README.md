@@ -12,16 +12,16 @@ I'm currently a volunteer Game Developer on [Corporate Clash](https://corporatec
 
 ## My Tools and Languages
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png" alt="Python" width="75"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" width="70"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="53">
-  <img src="https://discourse.panda3d.org/uploads/default/original/2X/7/73e66ac19bebab6744fe1809e1473fb4daa02f8e.png" alt="Panda3D" width="75"/>
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="MongoDB" width="85"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="85"/>
-  <img src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" alt="VSCode" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="65"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png" alt="Python" title="Python" width="75"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" title="JavaScript" width="70"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" title="PHP" width="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" title="CSS" width="53">
+  <img src="https://discourse.panda3d.org/uploads/default/original/2X/7/73e66ac19bebab6744fe1809e1473fb4daa02f8e.png" alt="Panda3D" title="Panda3D" width="75"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="MongoDB" title="MongoDB" width="85"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" title="SQL" width="85"/>
+  <img src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" alt="VSCode" title="VSCode" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" title="PyCharm" width="65"/>
 </div>
 
 
