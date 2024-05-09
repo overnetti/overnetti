@@ -11,7 +11,7 @@ I'm currently a volunteer Game Developer on [Corporate Clash](https://corporatec
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/olivia-vernetti/)
 
 ## My Tools and Languages
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png" alt="Python" width="100"/>
 
 
 <!--
