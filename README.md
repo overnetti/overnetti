@@ -2,9 +2,7 @@
 
 Hi there, I'm Olivia Vernetti (also known as Livi) 😄
 
-I'm a self-taught developer currently working as a Software Engineer intern at Carnegie Learning in Generative AI. In my free time, I also volunteer as a Game Developer on [Corporate Clash](https://corporateclash.net/), a free-to-play reimagination of Disney's Toontown MMO.
-
-🌱 I’m currently learning JavaScript, TypeScript, and Java, and I'm interested in learning C++, C#, and Lua.
+I'm a self-taught developer currently working as a Software Engineer at Carnegie Learning. In my free time, I also volunteer as a Game Developer on [Corporate Clash](https://corporateclash.net/), a free-to-play reimagination of Disney's Toontown MMO.
 
 📫 How to reach me: [<img src="https://www.learninglight.com/wp-content/uploads/2017/06/linkedin.png" alt="LinkedIn" title="LinkedIn" width="150"/>](https://www.linkedin.com/in/olivia-vernetti/)
 
@@ -13,6 +11,7 @@ I'm a self-taught developer currently working as a Software Engineer intern at C
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png" alt="Python" title="Python" width="75"/>
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" title="JavaScript" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" title="Angular" width="75"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp" alt="Java" title="Java" width="75"/>
   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" title="PHP" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="75"/>
