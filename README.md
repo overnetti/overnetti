@@ -2,7 +2,7 @@
 
 Hi there, I'm Olivia Vernetti (also known as Livi) 😄
 
-I'm a self-taught developer currently working as a Software Engineer at Carnegie Learning. In my free time, I also volunteer as a Game Developer on [Corporate Clash](https://corporateclash.net/), a free-to-play reimagination of Disney's Toontown MMO.
+I'm a self-taught developer currently working as a Software Engineer at LinkedIn. In my free time, I also volunteer as a Game Developer on [Corporate Clash](https://corporateclash.net/), a free-to-play reimagination of Disney's Toontown MMO.
 
 📫 How to reach me: [<img src="https://www.learninglight.com/wp-content/uploads/2017/06/linkedin.png" alt="LinkedIn" title="LinkedIn" width="150"/>](https://www.linkedin.com/in/olivia-vernetti/)
 
