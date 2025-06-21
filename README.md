@@ -13,7 +13,7 @@ I'm a self-taught developer currently working as a Software Engineer at LinkedIn
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" width="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" title="Angular" width="75"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp" alt="Java" title="Java" width="75"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" title="PHP" width="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" title="PHP" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" title="CSS" width="53">
   <img src="https://discourse.panda3d.org/uploads/default/original/2X/7/73e66ac19bebab6744fe1809e1473fb4daa02f8e.png" alt="Panda3D" title="Panda3D" width="75"/>
