@@ -19,8 +19,8 @@ I'm a self-taught developer currently working as a Software Engineer at LinkedIn
   <img src="https://discourse.panda3d.org/uploads/default/original/2X/7/73e66ac19bebab6744fe1809e1473fb4daa02f8e.png" alt="Panda3D" title="Panda3D" width="75"/>
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="MongoDB" title="MongoDB" width="85"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" title="SQL" width="85"/>
-  <img src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" alt="VSCode" title="VSCode" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" title="PyCharm" width="65"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" title="Azure" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="AWS" title="AWS" width="65"/>
 </div>
 
 
